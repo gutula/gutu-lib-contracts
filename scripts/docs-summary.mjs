@@ -3,6 +3,7 @@ const summary = {
   "repoName": "gutu-lib-contracts",
   "packageId": "contracts",
   "displayName": "Contracts",
+  "packageCount": 1,
   "group": "Core Data And Query",
   "maturity": "Hardened",
   "description": "Canonical public contract surface for admin plugins.",

@@ -35,6 +35,7 @@ Provides shared contract and type utilities that keep cross-package API surfaces
 | Package ID | `contracts` |
 | Display Name | Contracts |
 | Import Name | `@platform/contracts` |
+| Canonical Namespace Target | `@gutu/contracts` |
 | Version | `0.1.0` |
 | UI Surface | Headless typed exports |
 | Consumption Model | Imports + typed helpers |
@@ -48,6 +49,7 @@ Provides shared contract and type utilities that keep cross-package API surfaces
 | Dev Dependencies | None |
 | React Runtime | No |
 | Workspace Scoped | Yes |
+| Legacy Compatibility IDs | `@platform/contracts` |
 
 ### Dependency interpretation
 
